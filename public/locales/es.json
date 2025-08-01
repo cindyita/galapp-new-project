@@ -1,0 +1,11 @@
+{
+  "welcome": "Bienvenido al sistema",
+  "login": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión"
+  },
+  "table": {
+    "search": "Buscar en la tabla"
+  }
+}

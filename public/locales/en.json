@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome to the system",
+  "login": {
+    "email": "Email address",
+    "password": "Password",
+    "submit": "Log in"
+  },
+  "table": {
+    "search": "Search in table"
+  }
+}
